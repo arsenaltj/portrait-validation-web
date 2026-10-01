@@ -1,0 +1,8 @@
+node_modules/
+.cache/
+runtime/
+outputs/
+dist/
+.env
+.env.*
+*.log
